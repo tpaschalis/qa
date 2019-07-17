@@ -78,4 +78,4 @@ Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
  Memory Usage: 13.4 MB, less than 12.96% of Python3 online submissions for Integer to Roman.
 ```
 
-What I noticed was.....
+Just use a dictionary/hashmap to straight look-up values as you're iterating the input number. Only gotcha is the first empty element, otherwise -1 will refer to the end of the array value.
