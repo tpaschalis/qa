@@ -19,4 +19,5 @@
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)   | [Python3](https://github.com/tpaschalis/qa/tree/dev/q1-100/20)  | Easy | Not really hard. Either use stack for O(n) time/space, or recursion for constant space and [O(n*Cat(n))](https://en.wikipedia.org/wiki/Catalan_number) time |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)   | [Python3](https://github.com/tpaschalis/qa/tree/dev/q1-100/22)  | Medium  | Using backtracking like in #20. O(4ⁿ/√n), the bound of the n-th Catalan number |
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)   | [Python3](https://github.com/tpaschalis/qa/tree/dev/q1-100/24)  | Medium  | Keep track of two pointer, swap and leapfrog for the next swap. O(n) |
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)   | [Python3](https://github.com/tpaschalis/qa/tree/dev/q1-100/26)  | Easy  |  |
 |  xx  | [Title]()   | [Language](https://github.com/tpaschalis/qa/tree/dev/q1-100/xx)  | Difficulty  | Explanation |
