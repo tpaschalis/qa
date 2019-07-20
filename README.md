@@ -20,4 +20,5 @@
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)   | [Python3](https://github.com/tpaschalis/qa/tree/dev/q1-100/22)  | Medium  | Using backtracking like in #20. O(4ⁿ/√n), the bound of the n-th Catalan number |
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)   | [Python3](https://github.com/tpaschalis/qa/tree/dev/q1-100/24)  | Medium  | Keep track of two pointer, swap and leapfrog for the next swap. O(n) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)   | [Python3](https://github.com/tpaschalis/qa/tree/dev/q1-100/26)  | Easy  |  |
+| 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)   | [Python3](https://github.com/tpaschalis/qa/tree/dev/q1-100/29)  | Medium  | More of a riddle than a CS problem. Log/Exp or bit-shifting |
 |  xx  | [Title]()   | [Language](https://github.com/tpaschalis/qa/tree/dev/q1-100/xx)  | Difficulty  | Explanation |
