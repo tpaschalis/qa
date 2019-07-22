@@ -22,4 +22,5 @@
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)   | [Python3](https://github.com/tpaschalis/qa/tree/dev/q1-100/26)  | Easy  |  |
 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)   | [Python3](https://github.com/tpaschalis/qa/tree/dev/q1-100/29)  | Medium  | More of a riddle than a CS problem. Log/Exp or bit-shifting |
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/)   | [Python3](https://github.com/tpaschalis/qa/tree/dev/q1-100/31)  | Medium  | Permutations in [lexographical order](https://en.wikipedia.org/wiki/Permutation#Generation_in_lexicographic_order). Constant in space, at most two traversals in time, O(n) |
+| 192 | [Word Frequency](https://leetcode.com/problems/word-frequency/)   | [Bash](https://github.com/tpaschalis/qa/tree/dev/q1-100/192)  | Medium  | One-liner |
 |  xx  | [Title]()   | [Language](https://github.com/tpaschalis/qa/tree/dev/q1-100/xx)  | Difficulty  | Explanation |
