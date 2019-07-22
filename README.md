@@ -27,4 +27,5 @@
 | 193 | [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)   | [Bash](https://github.com/tpaschalis/qa/tree/dev/q1-100/193)  | Easy  | Grep one-liner |
 | 194 | [Transpose File](https://leetcode.com/problems/transpose-file/)   | [Bash](https://github.com/tpaschalis/qa/tree/dev/q1-100/194)  | Medium  | Cut one-liner |
 | 195 | [Tenth Line](https://leetcode.com/problems/tenth-line/)   | [Bash](https://github.com/tpaschalis/qa/tree/dev/q1-100/195)  | Easy  | Sed one-liner |
+| 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/)   | [Python3](https://github.com/tpaschalis/qa/tree/dev/q1-100/278)  | Easy  | Dead-simple binary search is O(logn) |
 |  xx  | [Title]()   | [Language](https://github.com/tpaschalis/qa/tree/dev/q1-100/xx)  | Difficulty  | Explanation |
