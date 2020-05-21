@@ -33,7 +33,7 @@ Explanation: The input binary string 11111111111111111111111111111101 has a tota
 
 ```
  Runtime: 0 ms, faster than 100.00% of Go online submissions for Number of 1 Bits.
- Memory Usage: 2.1 MB, less than 20.00% of Go online submissions for Number of 1 Bits.
+ Memory Usage: 2 MB, less than 100.00% of Go online submissions for Number of 1 Bits.
 ```
 
 Basically just dividing by two (eating bits off the number's tail), and keeping track how many of them were ones
